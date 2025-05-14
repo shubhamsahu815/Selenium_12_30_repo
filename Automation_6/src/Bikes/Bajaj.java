@@ -14,5 +14,6 @@ public void launch() {
 	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 	
 	driver.get("https://www.bajajauto.com/");
+	driver.get("https://www.bajajauto.com/");
 }
 }
